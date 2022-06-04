@@ -1,2 +1,2 @@
-# Desafio-Github
+# Desafio-GitHub
 Primeiro projeto Git/GitHub
